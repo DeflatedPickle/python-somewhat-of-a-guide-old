@@ -11,6 +11,7 @@
   * [Variables](good-practice/naming.md#variables)
   * [Functions](good-practice/naming.md#functions)
   * [Classes](good-practice/naming.md#classes)
+* [Type Hinting](type-hinting.md)
 
 ## Learning
 

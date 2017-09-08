@@ -38,21 +38,6 @@ This will print, "Hello, Monty Python!".
 
 #### What are Args and Kwargs?
 
-### Type Hinting {#type-hinting}
-
-#### What is Type Hinting?
-
-Type hinting is where you specify the type that a variable will be.
-
-This is mostly for documentation.
-
-```py
-def greet(name: str):
-    print("Hello, " + name + "!")
-
-greet("Monty")
-```
-
 ## Returning Information {#returning-information}
 
 Functions can return information to be used elsewhere.
@@ -65,8 +50,6 @@ print(sum(1, 2))
 ```
 
 This function will add the 2 arguments together.
-
-### Return Type {#return-type}
 
 ## Coroutines {#coroutines}
 
