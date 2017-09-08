@@ -1,6 +1,6 @@
 # Chapter 3.8: Classes {#classes}
 
-## Inheritance
+## Inheritance {#inheritance}
 
 ## Methods {#methods}
 
