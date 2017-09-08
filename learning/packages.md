@@ -1,4 +1,4 @@
-# Chapter 8: Packages
+# Chapter 3.8: Packages
 
 Blah, blah, blah.
 

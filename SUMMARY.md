@@ -9,6 +9,8 @@
 
 * [Naming](good-practice/naming.md)
   * [Variables](good-practice/naming.md#variables)
+  * [Functions](good-practice/naming.md#functions)
+  * [Classes](good-practice/naming.md#classes)
 
 ## Learning
 

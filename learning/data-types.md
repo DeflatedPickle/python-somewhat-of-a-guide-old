@@ -1,4 +1,4 @@
-# Chapter 1: Data Types
+# Chapter 3.1: Data Types
 
 Text
 

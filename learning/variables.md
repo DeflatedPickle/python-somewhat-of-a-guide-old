@@ -1,4 +1,4 @@
-# Chapter 2: Variables
+# Chapter 3.2: Variables
 
 #### What is a Variable?
 

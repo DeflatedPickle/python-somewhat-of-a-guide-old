@@ -1,4 +1,4 @@
-# Installing Python 3.6
+# Chapter 1.2: Installing Python 3.6
 
 
 
