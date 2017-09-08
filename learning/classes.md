@@ -23,10 +23,17 @@ When a class is extended by another, the new class will contain everything the e
 
 #### How to Inherit From a Class
 
-To inherit from another class, simply type it's name inside a set of parentheses.
+To inherit from another class, simply type it's name inside a set of parentheses..
 
 ```py
 class MyClass(object):
+    pass
+```
+
+To inherit from multiple, simply place a comma after each class you would like to extend
+
+```py
+class MyClass(object, str):
     pass
 ```
 
@@ -40,8 +47,18 @@ The class constructor is a method that is run whenever an instance of the class 
 
 ```py
 class MyClass:
-    def __init__(self)
+    def __init__(self):
         pass
+```
+
+#### Running the Constructor of an Extended Class
+
+If you extend from a class that sets variables in it's constructor, you will notice that those variables will not be set in your extended class if you have a constructor. This is because the extended class's constructor is never run. To fix this, you will need to run the constructor inside yours.
+
+```
+class MyClass(OtherClass):
+    def __init__(self):
+        OtherClass.__init__(self)
 ```
 
 ## Methods {#methods}
