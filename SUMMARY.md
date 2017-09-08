@@ -8,9 +8,13 @@
 ## Learning
 
 * [Data Types](data-types.md)
+  * [Numeric](data-types.md#numeric)
+     * [Boolean](data-types.md#boolean)
+     * [Float](data-types.md#float)
+     * [Complex](data-types.md#complex)
+  * [Sequences](data-types.md#sequences)
+	 * [String](data-types.md#string)
 * [Variables](variables.md)
-* [Numeric](data-types.md#numeric)
-  * [Boolean](data-types.md#boolean)
 * [Statements](statements.md)
 * [Operators](operators.md)
 * [Functions](functions.md)
