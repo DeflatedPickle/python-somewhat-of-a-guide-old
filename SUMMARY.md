@@ -45,5 +45,3 @@
 * [Functions](learning/functions.md)
 * [Classes](learning/classes.md)
 * [Packages](learning/packages.md)
-
-yy
