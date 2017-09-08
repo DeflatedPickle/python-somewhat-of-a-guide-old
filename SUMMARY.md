@@ -14,7 +14,7 @@
 
 ## Learning
 
-* [Data Types](learning/data-types.md)
+* [Data Types](/learning/data-types.md#data-types)
   * [Numeric](learning/data-types.md#numeric)
     * [Boolean](learning/data-types.md#boolean)
     * [Float](learning/data-types.md#float)
