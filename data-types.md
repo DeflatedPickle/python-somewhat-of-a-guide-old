@@ -2,11 +2,11 @@
 
 Text
 
-## Numeric
+## Numeric {#numeric}
 
 Something about numbers
 
-### Boolean
+### Boolean {#boolean}
 
 Explaining booleans
 
