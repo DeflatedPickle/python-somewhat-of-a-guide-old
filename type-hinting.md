@@ -4,7 +4,7 @@
 
 Type hinting is where you specify the class type that a variable will be, for instance, `str`.
 
-This is mostly for documentation.
+This is mostly for documentation, though it will help with readability and understanding of the code.
 
 ## Argument Type
 

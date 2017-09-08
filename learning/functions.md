@@ -21,10 +21,6 @@ def greet(name):
     print("Hello, " + name + "!")
 ```
 
-This function will print, "Hello, Monty!". Since we passed the string, "Monty" into the function.
-
-If there are multiple arguments for a function, to set their values, you will need to set them in the order they come in the function.
-
 ```py
 def greet_long(first_name, second_name):
     print("Hello, " + first_name + " " + second_name + "!")
@@ -40,6 +36,36 @@ By default, the values of arguments are all empty, and so every one must have a 
 def greet(name="Monty"):
     print("Hello, " + name + "!")
 ```
+
+#### Passing Arguments
+
+To pass values to function arguments, you will need to add the data to the set of parentheses.
+
+```py
+greet("Monty")
+```
+
+If there are multiple arguments for a function, to set their values, you will need to set them in the order they come in the function.
+
+You can also pass the name of the argument and then it's value.
+
+```py
+greet(name="Monty")
+```
+
+Passing them with the name means that you can give the values anywhere in the parentheses.
+
+```py
+greet_long(second_name="Python", first_name="Monty")
+```
+
+These aren't an either/or situation, though. Both can be used together.
+
+```py
+greet_long("Monty", second_name="Python")
+```
+
+Using the name of the argument will improve readability of the code, and if you think someone else will need to understand what the arguments mean, it might be a good idea to use them.
 
 #### What are Args and Kwargs?
 
