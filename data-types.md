@@ -1,4 +1,4 @@
-# Chapter 2: Data Types
+# Chapter 1: Data Types
 
 Text
 
@@ -65,6 +65,4 @@ Something about mappings
 ### Dictionary
 
 Explaining dictionaries
-
-
 
