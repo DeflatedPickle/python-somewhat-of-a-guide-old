@@ -2,7 +2,11 @@
 
 ## Arguments
 
+### Type Hinting
+
 ## Returning Information
+
+### Return Type
 
 ## Coroutines
 
