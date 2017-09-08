@@ -22,7 +22,7 @@
     * [Complex](learning/data-types.md#complex)
   * [Sequences](learning/data-types.md#sequences)
     * [String](learning/data-types.md#string)
-    * [Byte](learning/data-types.md#byte)
+    * [Bytes](learning/data-types.md#bytes)
     * [Byte Array](learning/data-types.md#byte-array)
     * [List](learning/data-types.md#list)
     * [Array](learning/data-types.md#array)
