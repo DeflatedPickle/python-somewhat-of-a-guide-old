@@ -19,8 +19,6 @@ An argument is something that can be passed into a function to then be used insi
 ```py
 def greet(name):
     print("Hello, " + name + "!")
-
-greet("Monty")
 ```
 
 This function will print, "Hello, Monty!". Since we passed the string, "Monty" into the function.
@@ -30,11 +28,18 @@ If there are multiple arguments for a function, to set their values, you will ne
 ```py
 def greet_long(first_name, second_name):
     print("Hello, " + first_name + " " + second_name + "!")
-
-greet_long("Monty", "Python")
 ```
 
 This will print, "Hello, Monty Python!".
+
+#### Default Value
+
+By default, the values of arguments are all empty, and so every one must have a value past to it. However, you might want to give default values for arguments. This can be done by adding an equals sign and then the value, just like you were creating a variable.
+
+```py
+def greet(name="Monty"):
+    print("Hello, " + name + "!")
+```
 
 #### What are Args and Kwargs?
 
