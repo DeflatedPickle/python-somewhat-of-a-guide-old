@@ -53,7 +53,15 @@ class MyClass:
 
 #### Constructor Arguments
 
-You might find that you want to pass arguments into the class for it to use.
+You might find that you want to pass arguments into the class for it to use. These arguments can be passed after `self`.
+
+```py
+class MyClass:
+    def __init__(self, name):
+        self.name = name
+```
+
+Now the name can be retrieved from an instance of the class.
 
 #### Running the Constructor of an Extended Class
 
