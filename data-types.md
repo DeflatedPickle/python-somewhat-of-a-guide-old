@@ -2,62 +2,6 @@
 
 Text
 
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
-t
-
 ## Numeric {#numeric}
 
 Something about numbers
