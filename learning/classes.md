@@ -104,7 +104,9 @@ class MyClass:
 An instance variable is a variable of the class that can be used from an instance. They are defined in the constructor of the class.
 
 ```py
-self.my_variable = "Hello."
+class MyClass:
+    def __init__(self):
+        self.my_variable = "Hello."
 ```
 
 ## Instances {#instances}
@@ -123,7 +125,7 @@ MyClass()
 
 If the class takes arguments in the constructor, they will need to be given in the instance.
 
-```
+```py
 MyClass("Monty")
 ```
 
