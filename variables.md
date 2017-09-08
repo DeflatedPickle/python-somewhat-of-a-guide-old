@@ -24,7 +24,14 @@ Now, the variable, "my\_variable" may be called from the code.
 
 ### Changing Variables
 
-Stuff.
+Changing a variable is a lot like defining it, in fact, it's no different from.
+
+```py
+my_variable = "A simple String."
+my_variable = "A different String."
+```
+
+The first line will create the variable and give it the value, and the second line will change the value of the variable.
 
 ### Calling Variables
 
