@@ -2,9 +2,7 @@
 
 Text
 
-## Data Types:
-
-Text
+## Boolean
 
 
 
