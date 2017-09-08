@@ -34,6 +34,10 @@ If no class is given to inherit, the class will inherit from `object`.
 
 #### Class Constructor
 
+#### What is the Class Constructor? {#what-is-a-variable}
+
+The class constructor is a method that is run whenever an instance of the class is created. It is where instance variables will be created.
+
 ```py
 class MyClass:
     def __init__(self)
