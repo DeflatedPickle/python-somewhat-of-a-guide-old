@@ -14,6 +14,17 @@ If you want to run multiple lines of code multiple times, then putting that code
 
 #### What is an Argument?
 
+An argument is something that can be passed into a function to then be used inside of the function.
+
+```py
+def my_function(name):
+    print("Hello, " + name + "!")
+    
+my_function("Harry")
+```
+
+This function will print, "Hello, Harry!". Since we passed the string, "Harry" into the function.
+
 #### What are Args and Kwargs?
 
 ### Type Hinting {#type-hinting}
