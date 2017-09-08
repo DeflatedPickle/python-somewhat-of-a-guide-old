@@ -10,6 +10,8 @@ A variable can contain any data type. For instance, a variable can contain a lis
 
 Variables help improve readability of code, and can reduce the amount of coding needed.
 
+Say that you need to use a string again and again, you could just write the string each time, but then if you wanted to change the string, you would need to change each mention of the string. Instead, you can use a variable that contains the string. Meaning that if you wanted to change the string, you would only need to change it once.
+
 ## Using Variables
 
 To use a variable, the variable must first be defined. After that, it may be called.
