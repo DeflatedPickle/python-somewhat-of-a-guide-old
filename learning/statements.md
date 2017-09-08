@@ -32,7 +32,7 @@ else:
 
 #### Elif
 
-If you want to check something else if the argument is false, you can use an `elif`. An `elif` basically means, "else if", and can be substituted by placing another `if` statement inside an `else`.
+If you want to check something else if the argument is false, you can use an `elif`. An `elif` basically means, "else if".
 
 ```py
 if 0 == 1:
@@ -41,6 +41,18 @@ elif 0 == 0:
     print("It does.")
 else:
     print("I should think not.")
+```
+
+It can be substituted by placing another `if` statement inside an `else, though this can decrease readability of the code.`
+
+```py
+if 0 == 1:
+    print("Indeed.")
+else:
+    if 0 == 0:
+        print("It does.")
+    else:
+        print("I should think not.")
 ```
 
 #### In-Line
