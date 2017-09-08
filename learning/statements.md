@@ -62,7 +62,3 @@ while 0 == 0:
 
 This will print, "Hello." until the program is closed, since 0 always equals 0.
 
-### For Statement
-
-
-
