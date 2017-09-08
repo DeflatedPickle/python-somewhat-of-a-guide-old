@@ -2,7 +2,11 @@
 
 Text
 
-## Boolean
+## Numeric
 
+Something about numbers
 
+### Boolean
+
+Explaining booleans
 
