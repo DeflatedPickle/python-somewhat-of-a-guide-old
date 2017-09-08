@@ -1,6 +1,13 @@
 # Summary
 
+### Getting Started
+
 * [Introduction](README.md)
+
+### Syntax
+
+### Learning
+
 * [Variables](variables.md)
 * [Data Types](data-types.md)
 	* [Numeric](data-types.md#numeric)
