@@ -1,4 +1,4 @@
-# Chapter 3.5: Loops
+# Chapter 3.5: Loops {#loops}
 
 
 

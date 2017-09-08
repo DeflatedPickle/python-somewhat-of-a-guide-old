@@ -1,14 +1,10 @@
-# Chapter 3.3: Statements
+# Chapter 3.3: Statements {#statements}
 
-#### What is a Statement?
+#### What is a Statement? {#what-is-a-statement}
 
-## Simple Statements
+## Simple Statements {#simple-statements}
 
-
-
-## Compound Statements
-
-
+## Compound Statements {#compound-statements}
 
 
 

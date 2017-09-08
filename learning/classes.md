@@ -1,8 +1,8 @@
-# Chapter 3.8: Classes
+# Chapter 3.8: Classes {#classes}
 
 ## Methods {#methods}
 
-## Instances
+## Instances {#instances}
 
 
 

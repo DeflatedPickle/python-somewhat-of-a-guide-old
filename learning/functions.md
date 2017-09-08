@@ -1,14 +1,14 @@
-# Chapter 3.7: Functions
+# Chapter 3.7: Functions {#functions}
 
-## Arguments
+## Arguments {#arguments}
 
-### Type Hinting
+### Type Hinting {#type-hinting}
 
-## Returning Information
+## Returning Information {#returning-information}
 
-### Return Type
+### Return Type {#return-type}
 
-## Coroutines
+## Coroutines {#coroutines}
 
 
 

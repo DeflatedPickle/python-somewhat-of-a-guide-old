@@ -1,20 +1,20 @@
-# Chapter 3.9: Packages
+# Chapter 3.9: Packages {#packages}
 
 Blah, blah, blah.
 
-## Importing Packages
+## Importing Packages {#importing-packages}
 
 Stuff.
 
-## Standard Packages
+## Standard Packages {#standard-packages}
 
 Stuff.
 
-## Installing Packages
+## Installing Packages {#installing-packages}
 
 Stuff.
 
-## Creating Packages
+## Creating Packages {#creating-packages}
 
 Stuff.
 
