@@ -1,22 +1,22 @@
-# Chapter 3.2: Variables
+# Chapter 3.2: Variables {#variables}
 
-#### What is a Variable?
+#### What is a Variable? {#what-is-a-variable}
 
 A variable is essentially a label for a value. They contain a piece of data.
 
 A variable can contain any data type. For instance, a variable can contain a list.
 
-#### Why Should I Use Variables?
+#### Why Should I Use Variables? {#why-should-i-use-variables}
 
 Variables help improve readability of code, and can reduce the amount of coding needed.
 
 Say that you need to use a string again and again, you could just write the string each time, but then if you wanted to change the string, you would need to change each mention of the string. Instead, you can use a variable that contains the string. Meaning that if you wanted to change the string, you would only need to change it once.
 
-## Using Variables
+## Using Variables {#using-variables}
 
 To use a variable, the variable must first be defined. After that, it may be called.
 
-### Defining Variables
+### Defining Variables {#defining-variables}
 
 To define a variable, you simply write it's name followed by an equals sign and then the value the variable will have.
 
@@ -26,7 +26,7 @@ my_variable = "A simple string."
 
 Now, the variable, "my\_variable" may be called from the code.
 
-### Changing Variables
+### Changing Variables {#changing-variables}
 
 Changing a variable is a lot like defining it, in fact, it's no different from.
 
