@@ -17,19 +17,30 @@ If you want to run multiple lines of code multiple times, then putting that code
 An argument is something that can be passed into a function to then be used inside of the function.
 
 ```py
-def my_function(name):
+def greet(name):
     print("Hello, " + name + "!")
-    
-my_function("Harry")
+
+greet("Monty")
 ```
 
 This function will print, "Hello, Harry!". Since we passed the string, "Harry" into the function.
+
+If there are multiple arguments for a function, to set their values, you will need to set them in the order they come in the function.
+
+```py
+def greet_long(first_name, second_name):
+    print("Hello, " + first_name + " " + second_name + "!")
+
+greet_long("Monty", "Python")
+```
 
 #### What are Args and Kwargs?
 
 ### Type Hinting {#type-hinting}
 
 ## Returning Information {#returning-information}
+
+Functions can return information to be used elsewhere.
 
 ### Return Type {#return-type}
 

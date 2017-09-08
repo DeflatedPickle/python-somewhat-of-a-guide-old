@@ -124,7 +124,7 @@ MyClass()
 If the class takes arguments in the constructor, they will need to be given in the instance.
 
 ```
-MyClass("Harry")
+MyClass("Monty")
 ```
 
 
