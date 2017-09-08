@@ -33,6 +33,7 @@
     * [Dictionary](learning/data-types.md#dictionary)
 * [Variables](learning/variables.md)
 * [Statements](learning/statements.md)
+* [Expressions](learning/expressions.md)
 * [Loops](learning/loops.md)
 * [Operators](learning/operators.md)
 * [Functions](learning/functions.md)

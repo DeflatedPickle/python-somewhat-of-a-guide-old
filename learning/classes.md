@@ -1,4 +1,4 @@
-# Chapter 3.7: Classes
+# Chapter 3.8: Classes
 
 ## Methods {#methods}
 
