@@ -46,5 +46,17 @@ Explaining arrays
 
 Explaining tuples
 
+## Sets
+
+Something about sets
+
+### Set
+
+Explaining sets
+
+### Frozen Set
+
+Explaining frozen sets
+
 
 
