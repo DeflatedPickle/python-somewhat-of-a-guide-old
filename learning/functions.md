@@ -2,6 +2,8 @@
 
 #### What is a Function?
 
+A function is a command that can be used to perform an/or multiple actions. They can contain however many lines of code you would like, and can be used however many times by just calling it.
+
 ## Arguments {#arguments}
 
 #### What is an Argument?
