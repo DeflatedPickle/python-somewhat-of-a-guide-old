@@ -57,6 +57,17 @@ def my_method(self):
     pass
 ```
 
+## Class Variables {#instances}
+
+#### What is a Class Variable?
+
+A class variable is a variable that belongs to the class. In every instance of the class, class variables will always stay the same. They are defined before the constructor.
+
+```py
+class MyClass:
+    my_variable = "Hello."
+```
+
 ## Instance Variables {#instances}
 
 #### What is an Instance Variable?
