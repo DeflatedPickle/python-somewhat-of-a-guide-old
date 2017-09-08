@@ -109,6 +109,8 @@ class MyClass:
         self.my_variable = "Hello."
 ```
 
+If the variable name lacks the `self.`, it will instead be a local variable.
+
 ## Instances {#instances}
 
 #### What is an Instance? {#what-is-an-instance}
