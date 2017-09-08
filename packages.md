@@ -14,9 +14,7 @@ Stuff.
 
 Stuff.
 
-## Creating a Package
+## Creating Packages
 
 Stuff.
-
-
 
