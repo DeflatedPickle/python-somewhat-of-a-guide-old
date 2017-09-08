@@ -1,4 +1,4 @@
-# Chapter 5: Functions
+# Chapter 6: Functions
 
 ## Arguments
 

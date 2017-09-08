@@ -1,4 +1,4 @@
-# Chapter 6: Classes
+# Chapter 7: Classes
 
 ## Methods {#methods}
 
