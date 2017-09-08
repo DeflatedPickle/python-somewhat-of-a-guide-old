@@ -10,59 +10,59 @@ Something about numbers
 
 Explaining booleans
 
-### Float
+### Float {#float}
 
 Explaining floats
 
-### Complex
+### Complex {#complex}
 
 Explaining complex numbers
 
-## Sequences
+## Sequences {#sequences}
 
 Something about sequences
 
-### String
+### String {#string}
 
 Explaining strings
 
-### Bytes
+### Bytes {#bytes}
 
 Explaining bytes
 
-### Byte Array
+### Byte Array {#byte-array}
 
 Explaining byte arrays
 
-### List
+### List {#list}
 
 Explaining lists
 
-### Array
+### Array {#array}
 
 Explaining arrays
 
-### Tuple
+### Tuple {#tuple}
 
 Explaining tuples
 
-## Sets
+## Sets {#sets}
 
 Something about sets
 
-### Set
+### Set {#set}
 
 Explaining sets
 
-### Frozen Set
+### Frozen Set {#frozen-set}
 
 Explaining frozen sets
 
-## Mappings
+## Mappings {#mappings}
 
 Something about mappings
 
-### Dictionary
+### Dictionary {#dictionary}
 
 Explaining dictionaries
 
