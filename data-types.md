@@ -2,10 +2,6 @@
 
 Text
 
-
-
-
-
 ## Numeric {#numeric}
 
 Something about numbers
@@ -25,4 +21,30 @@ Explaining complex numbers
 ## Sequences
 
 Something about sequences
+
+### String
+
+Explaining strings
+
+### Bytes
+
+Explaining bytes
+
+### Byte Array
+
+Explaining byte arrays
+
+### List
+
+Explaining lists
+
+### Array
+
+Explaining arrays
+
+### Tuple
+
+Explaining tuples
+
+
 
