@@ -50,7 +50,7 @@ class MyClass:
 
 A method is what functions of a class are called. They are the same as normal functions, except they take an additional argument for the first parameter, the class.
 
-#### How to Create an Method
+#### How to Create a Method
 
 ```py
 def my_method(self):
