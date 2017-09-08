@@ -2,6 +2,36 @@
 
 Text
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Numeric {#numeric}
 
 Something about numbers
