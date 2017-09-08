@@ -4,8 +4,6 @@
 
 * [Introduction](README.md)
 
-### Syntax
-
 ### Learning
 
 * [Variables](variables.md)
