@@ -35,5 +35,12 @@ The first line will create the variable and give it the value, and the second li
 
 ### Calling Variables
 
+To call a variable, you simply write the name of it where you would like it to be used.
 
+```py
+my_variable = "A simple String."
+print(my_variable)
+```
+
+This will print, "A simple String." to the terminal.
 
