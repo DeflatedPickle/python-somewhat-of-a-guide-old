@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Variables](variables.md)
-* Functions
-* Classes
-* Statements
+* [Functions](functions.md)
+* [Classes](classes.md)
+* [Statements](statements.md)
 
