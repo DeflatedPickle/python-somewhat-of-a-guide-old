@@ -2,6 +2,8 @@
 
 Text
 
+
+
 ## Numeric {#numeric}
 
 Something about numbers
@@ -17,6 +19,12 @@ Explaining floats
 ### Complex
 
 Explaining complex numbers
+
+
+
+## Sequences
+
+Something about sequences
 
 
 
