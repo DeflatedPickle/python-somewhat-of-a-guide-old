@@ -1,4 +1,4 @@
-# Chapter 3.8: Classes {#classes}
+# Chapter 3.9: Classes {#classes}
 
 #### What is a Class? {#what-is-a-variable}
 

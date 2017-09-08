@@ -1,4 +1,4 @@
-# Chapter 3.3: Statements {#statements}
+# Chapter 3.4: Statements {#statements}
 
 #### What is a Statement? {#what-is-a-statement}
 

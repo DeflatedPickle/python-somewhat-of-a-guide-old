@@ -1,4 +1,4 @@
-# Chapter 3.6: Operators {#operators}
+# Chapter 3.7: Operators {#operators}
 
 
 

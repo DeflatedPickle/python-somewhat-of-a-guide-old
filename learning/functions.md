@@ -1,4 +1,4 @@
-# Chapter 3.7: Functions {#functions}
+# Chapter 3.8: Functions {#functions}
 
 ## Arguments {#arguments}
 

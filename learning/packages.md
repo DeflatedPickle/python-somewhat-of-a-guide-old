@@ -1,4 +1,4 @@
-# Chapter 3.9: Packages {#packages}
+# Chapter 3.10: Packages {#packages}
 
 Blah, blah, blah.
 
