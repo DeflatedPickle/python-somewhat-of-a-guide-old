@@ -121,5 +121,11 @@ To create an instance, you simply type the name followed by an empty set of pare
 MyClass()
 ```
 
+If the class takes arguments in the constructor, they will need to be given in the instance.
+
+```
+MyClass("Harry")
+```
+
 
 
