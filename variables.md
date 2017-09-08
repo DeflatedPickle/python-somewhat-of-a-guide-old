@@ -1,6 +1,8 @@
 # Chapter 2: Variables
 
-Stuff.
+#### What is a Variable?
+
+#### Why Should I Use Variables?
 
 ## Using Variables
 
@@ -13,6 +15,4 @@ Stuff.
 ### Changing Variables
 
 Stuff.
-
-
 
