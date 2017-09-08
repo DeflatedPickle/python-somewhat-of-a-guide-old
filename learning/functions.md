@@ -23,7 +23,7 @@ def greet(name):
 greet("Monty")
 ```
 
-This function will print, "Hello, Harry!". Since we passed the string, "Harry" into the function.
+This function will print, "Hello, Monty!". Since we passed the string, "Monty" into the function.
 
 If there are multiple arguments for a function, to set their values, you will need to set them in the order they come in the function.
 
@@ -33,6 +33,8 @@ def greet_long(first_name, second_name):
 
 greet_long("Monty", "Python")
 ```
+
+This will print, "Hello, Monty Python!".
 
 #### What are Args and Kwargs?
 
