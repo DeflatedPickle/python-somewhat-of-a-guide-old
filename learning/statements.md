@@ -24,8 +24,17 @@ Will always be `true` and so print, "Indeed.", since 0 is always equal to 0.
 The `if` statement can be used in-line, to set a value to a piece of data depending on if the statement is true or false.
 
 ```py
-print("hello" if 0 == 0 else "bye")
+print("Hello." if 0 == 0 else "Bye.")
 ```
 
+### While Statement
 
+The `while` statement will continue to run the code it contains until the argument it was given is not true.
+
+```py
+while True:
+    print("Hello.")
+```
+
+This will always print, "Hello.", since `True` is always true.
 
