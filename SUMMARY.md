@@ -1,3 +1,9 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Variables](variables.md)
+* [Data Types](data-types.md)
+* Functions
+* Classes
+* Statements
+
