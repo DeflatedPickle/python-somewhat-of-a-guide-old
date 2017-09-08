@@ -55,7 +55,7 @@ class MyClass:
 
 If you extend from a class that sets variables in it's constructor, you will notice that those variables will not be set in your extended class if you have a constructor. This is because the extended class's constructor is never run. To fix this, you will need to run the constructor inside yours.
 
-```
+```py
 class MyClass(OtherClass):
     def __init__(self):
         OtherClass.__init__(self)
