@@ -12,6 +12,7 @@
     * [Boolean](data-types.md#boolean)
 * [Variables](variables.md)
 * [Statements](statements.md)
+* [Operators](operators.md)
 * [Functions](functions.md)
 * [Classes](classes.md)
 * [Packages](packages.md)
