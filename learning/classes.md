@@ -32,6 +32,14 @@ class MyClass(object):
 
 If no class is given to inherit, the class will inherit from `object`.
 
+#### Class Constructor
+
+```py
+class MyClass:
+    def __init__(self)
+        pass
+```
+
 ## Methods {#methods}
 
 #### What is a Method? {#what-is-a-variable}
@@ -45,11 +53,11 @@ def my_method(self):
     pass
 ```
 
-## Class Variables {#instances}
+## Instance Variables {#instances}
 
-#### What is a Class Variable?
+#### What is an Instance Variable?
 
-A class variable is a variable of the class that can be used from an instance.
+An instance variable is a variable of the class that can be used from an instance. They are defined in the constructor of the class.
 
 ```py
 self.my_variable = "Hello."
