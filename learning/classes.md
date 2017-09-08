@@ -25,7 +25,7 @@ When a class is extended by another, the new class will contain everything the e
 
 To inherit from another class, simply type it's name inside a set of parentheses.
 
-```
+```py
 class MyClass(object):
     pass
 ```
@@ -43,6 +43,16 @@ A method is what functions of a class are called. They are the same as normal fu
 ```py
 def my_method(self):
     pass
+```
+
+## Class Variables {#instances}
+
+#### What is a Class Variable?
+
+A class variable is a variable of the class that can be used from an instance.
+
+```py
+self.my_variable = "Hello."
 ```
 
 ## Instances {#instances}
