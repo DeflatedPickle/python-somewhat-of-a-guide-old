@@ -46,5 +46,6 @@
 * [Operators](learning/operators.md)
 * [Functions](learning/functions.md)
 * [Classes](learning/classes.md)
+	* [What is a Class](learning/classes.md#what-is-a-class)
 * [Packages](learning/packages.md)
 
