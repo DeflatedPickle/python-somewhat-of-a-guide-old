@@ -39,7 +39,7 @@ class MyClass(object, str):
 
 If no class is given to inherit, the class will inherit from `object`.
 
-#### Class Constructor
+## Class Constructor
 
 #### What is the Class Constructor? {#what-is-a-variable}
 
@@ -50,6 +50,10 @@ class MyClass:
     def __init__(self):
         pass
 ```
+
+#### Constructor Arguments
+
+You might find that you want to pass arguments into the class for it to use.
 
 #### Running the Constructor of an Extended Class
 
