@@ -58,5 +58,13 @@ Explaining sets
 
 Explaining frozen sets
 
+## Mappings
+
+Something about mappings
+
+### Dictionary
+
+Explaining dictionaries
+
 
 
