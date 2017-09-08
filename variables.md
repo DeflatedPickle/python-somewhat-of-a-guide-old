@@ -2,11 +2,15 @@
 
 Stuff.
 
-## Defining Variables
+## Using Variables
 
 Stuff.
 
-## Using Variables
+### Defining Variables
+
+Stuff.
+
+### Changing Variables
 
 Stuff.
 
