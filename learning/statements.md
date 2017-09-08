@@ -19,11 +19,26 @@ if 0 == 0:
 
 Will always be `true` and so print, "Indeed.", since 0 is always equal to 0.
 
+#### Else
+
 If you want to run some code when the argument is false, you can use `else`.
 
 ```py
 if 0 == 0:
     print("Indeed.")
+else:
+    print("I should think not.")
+```
+
+#### Elif
+
+If you want to check something else if the argument is false, you can use an `elif`. An `elif` basically means, "else if", and can be substituted by placing another `if` statement inside an `else`.
+
+```py
+if 0 == 1:
+    print("Indeed.")
+elif 0 == 0:
+    print("It does.")
 else:
     print("I should think not.")
 ```
