@@ -82,6 +82,10 @@ print(sum(1, 2))
 
 This function will add the 2 arguments together.
 
+## Generators
+
+#### What is a Generator?
+
 ## Coroutines {#coroutines}
 
 #### What is a Coroutine?
