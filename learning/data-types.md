@@ -2,6 +2,10 @@
 
 Text
 
+### None
+
+Something about null
+
 ## Numeric {#numeric}
 
 Something about numbers
