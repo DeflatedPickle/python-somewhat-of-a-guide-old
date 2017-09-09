@@ -67,3 +67,5 @@
     * [How to Create an Instance](learning/classes.md#how-to-create-an-instance)
 * [Packages](learning/packages.md)
 
+## Sticking To The Style Guide
+
