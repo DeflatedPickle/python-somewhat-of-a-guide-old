@@ -5,6 +5,8 @@
 * [Introduction](README.md)
 * [Installation](installation.md)
 
+## Learning the Basics
+
 ## Good Practice
 
 * [Naming](good-practice/naming.md)
@@ -15,6 +17,7 @@
 
 ## Learning
 
+* [Basics](learning/basics.md)
 * [Data Types](/learning/data-types.md#data-types)
   * [Numeric](learning/data-types.md#numeric)
     * [Boolean](learning/data-types.md#boolean)
