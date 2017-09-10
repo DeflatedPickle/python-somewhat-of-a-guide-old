@@ -86,9 +86,9 @@ This function will add the 2 arguments together.
 
 #### What is a Generator?
 
-## Coroutines {#coroutines}
+## Decorators {#coroutines}
 
-#### What is a Coroutine?
+#### What is a Decorator?
 
 
 
