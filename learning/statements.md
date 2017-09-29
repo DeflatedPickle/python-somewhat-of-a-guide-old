@@ -43,7 +43,7 @@ else:
     print("I should think not.")
 ```
 
-It can be substituted by placing another `if` statement inside an `else, though this can decrease readability of the code.`
+It can be substituted by placing another `if` statement inside an `else`, though this can decrease readability of the code.
 
 ```py
 if 0 == 1:
