@@ -74,3 +74,7 @@ while 0 == 0:
 
 This will print, "Hello." until the program is closed, since 0 always equals 0.
 
+If you want your program to loop forever, it is best to use `while True`, as it provides good readability.
+
+If you would like your program to loop until a variable is changed, you can use `while my_variable`, after setting the variable to `True`, first. This will then run forever, or until you reset the variable to something else. If it is set to something else, the `while` loop will exit after the rest of the code inside has finished.
+
