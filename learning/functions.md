@@ -30,7 +30,7 @@ This will print, "Hello, Monty Python!".
 
 #### Default Value
 
-By default, the values of arguments are all empty, and so every one must have a value past to it. However, you might want to give default values for arguments. This can be done by adding an equals sign and then the value, just like you were creating a variable.
+By default, the values of arguments are all empty, and so every one must have a value passed to it. However, you might want to give default values for arguments. This can be done by adding an equals sign and then the value, just like you were creating a variable.
 
 ```py
 def greet(name="Monty"):
