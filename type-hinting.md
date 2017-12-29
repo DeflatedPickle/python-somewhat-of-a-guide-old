@@ -28,5 +28,13 @@ def sum(num1, num2) -> int:
 print(sum(1, 2))
 ```
 
+## Variable Type
+
+Defining the variable type is very similar to an argument type, in fact, exactly the same.
+
+```python
+my_var: str = "Hello"
+```
+
 
 
