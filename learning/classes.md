@@ -41,19 +41,19 @@ class MyClass(object, str):
 
 If no class is given to inherit, the class will inherit from `object`.
 
-## Class Constructor {#class-constructor}
+## Class Initialiser {#class-constructor}
 
-#### What is the Class Constructor? {#what-is-the-class-constructor}
+#### What is the Class Initialiser? {#what-is-the-class-constructor}
 
-The class constructor is a method that is run whenever an instance of the class is created. It is where instance variables will be created.
+The class initialiser is a method that is run whenever an instance of the class is created. It is where instance variables will be created.
 
 ```py
 class MyClass:
     def __init__(self):
-        pass
+        self.name = "Monty"
 ```
 
-#### Constructor Arguments {#constructor-arguments}
+#### Initialiser Arguments {#constructor-arguments}
 
 You might find that you want to pass arguments into the class for it to use. These arguments can be passed after `self`.
 
@@ -65,9 +65,9 @@ class MyClass:
 
 Now the name can be retrieved from an instance of the class.
 
-#### Running the Constructor of an Extended Class {#running-the-constructor-of-an-extended-class}
+#### Running the Initialiser of an Extended Class {#running-the-constructor-of-an-extended-class}
 
-If you extend from a class that sets variables in it's constructor, you will notice that those variables will not be set in your extended class if you have a constructor. This is because the extended class's constructor is never run. To fix this, you will need to run the constructor inside yours.
+If you extend from a class that sets variables in it's initialiser, you will notice that those variables will not be set in your extended class if you have an initialiser. This is because the extended class's constructor is never run. To fix this, you will need to run the initialiser inside yours.
 
 ```py
 class MyClass(OtherClass):
