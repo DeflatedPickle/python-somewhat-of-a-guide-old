@@ -4,7 +4,7 @@ Text
 
 ### None
 
-Something about null
+None is litterly nothing. No data, No value, no nothing
 
 ## Numeric {#numeric}
 
