@@ -23,21 +23,15 @@ A boolean can be the answer to a question or statement,
 for example:
 
 ```python
-IsBot(User)
+is_user_bot = true
 ```
 
-IsBot() will return a boolean, True if `User` is a bot and False if `User` is not a bot. therefor you can place these into a variable like this
-
-```python
-IsUserBot = IsBot(User)
-```
-
-IsUserBot will contain a True or a False depending on if User was a bot or not.
+IsUserBot now contains True which means the User is a bot
 
 Booleans are mostly used in if, while, for, etc loops, these loops will only run if the value is true
 
 ```python
-if(IsUserBot):
+if(is_user_bot):
   print("User is a bot!")
 ```
 
