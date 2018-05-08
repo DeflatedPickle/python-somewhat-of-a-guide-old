@@ -12,7 +12,30 @@ Something about numbers
 
 ### Boolean {#boolean}
 
-Explaining booleans
+A boolean can be in 2 states, true or false.
+A boolean can be the answer to a question or statement,
+for example:
+
+```python
+IsBot(User)
+```
+
+IsBot() will return a boolean, True if `User` is a bot and False if `User` is not a bot. therefor you can place these into a variable like this
+
+```python
+IsUserBot = IsBot(User)
+```
+
+IsUserBot will contain a True or a False depending on if User was a bot or not.
+
+Booleans are mostly used in if, while, for, etc loops, these loops will only run if the value is true
+
+```python
+if(IsUserBot):
+  print("User is a bot!")
+```
+
+will print "User is a bot!" if IsUserBot is true
 
 ### Float {#float}
 
