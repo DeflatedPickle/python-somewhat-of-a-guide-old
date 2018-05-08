@@ -39,7 +39,13 @@ will print "User is a bot!" if IsUserBot is true
 
 ### Float {#float}
 
-Explaining floats
+Float is like a numeric number as explained above but it has decimals, for example if you wanted more specific calculations you can do
+
+```python
+PI = 3.14
+```
+
+PI now contains the more correct 3.14 instead of just a 3
 
 ### Complex {#complex}
 
