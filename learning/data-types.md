@@ -57,7 +57,14 @@ Something about sequences
 
 ### String {#string}
 
-Explaining strings
+Strings are just text, like what you're reading right now. You define a string by putting your text around quotation marks, for example
+
+```python
+my_name = "deflatedpickle"
+print(my_name)
+```
+
+this will print "deflatedpickle"(without the quotation marks)
 
 ### Bytes {#bytes}
 
