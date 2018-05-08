@@ -8,7 +8,13 @@ None is litterly nothing. No data, No value, no nothing
 
 ## Numeric {#numeric}
 
-Something about numbers
+A numberic data type contains a number, like 1942302. For example
+
+```python
+PI = 3
+```
+
+PI will now contain the number 3 which can now be used in calculating stuff
 
 ### Boolean {#boolean}
 
