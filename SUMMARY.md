@@ -4,7 +4,6 @@
 
 ## Getting Started
 
-* [Introduction](getting-started/introduction.md)
 * [Installation](getting-started/installation.md)
 
 ## Good Practice
