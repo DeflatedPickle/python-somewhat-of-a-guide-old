@@ -1,14 +1,12 @@
-# Chapter 3.3: Scopes {#statements}
+# Scopes
 
-#### What is a Scope?
+### What is a Scope?
 
 ## Local Scope
 
-#### What is the Local Scope?
+### What is the Local Scope?
 
 ## Global Scope
 
-#### What is the Global Scope?
-
-
+### What is the Global Scope?
 

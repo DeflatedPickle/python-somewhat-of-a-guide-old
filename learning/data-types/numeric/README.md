@@ -1,4 +1,4 @@
-# Chapter 3.1: Data Types {#data-types}
+# Numeric
 
 Text
 

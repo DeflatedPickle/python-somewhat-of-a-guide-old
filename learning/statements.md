@@ -1,4 +1,4 @@
-# Chapter 3.4: Statements {#statements}
+# Statements
 
 #### What is a Statement? {#what-is-a-statement}
 
@@ -12,7 +12,7 @@ The `if` statement can be used to check if an argument is true or false.
 
 For instance:
 
-```py
+```python
 if 0 == 0:
     print("Indeed.")
 ```
@@ -23,7 +23,7 @@ Will always be `true` and so print, "Indeed.", since 0 is always equal to 0.
 
 If you want to run some code when the argument is false, you can use `else`.
 
-```py
+```python
 if 0 == 0:
     print("Indeed.")
 else:
@@ -34,7 +34,7 @@ else:
 
 If you want to check something else if the argument is false, you can use an `elif`. An `elif` basically means, "else if".
 
-```py
+```python
 if 0 == 1:
     print("Indeed.")
 elif 0 == 0:
@@ -45,7 +45,7 @@ else:
 
 It can be substituted by placing another `if` statement inside an `else`, though this can decrease readability of the code.
 
-```py
+```python
 if 0 == 1:
     print("Indeed.")
 else:
@@ -59,7 +59,7 @@ else:
 
 The `if` statement can be used in-line, to set a value to a piece of data depending on if the statement is true or false.
 
-```py
+```python
 print("Hello." if 0 == 0 else "Bye.")
 ```
 
@@ -67,7 +67,7 @@ print("Hello." if 0 == 0 else "Bye.")
 
 The `while` statement will continue to run the code it contains until the argument it was given is not true.
 
-```py
+```python
 while 0 == 0:
     print("Hello.")
 ```

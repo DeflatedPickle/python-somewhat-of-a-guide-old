@@ -1,4 +1,4 @@
-# Chapter 3.2: Variables {#variables}
+# Variables
 
 #### What is a Variable? {#what-is-a-variable}
 
@@ -20,7 +20,7 @@ To use a variable, the variable must first be defined. After that, it may be cal
 
 To define a variable, you simply write it's name followed by an equals sign and then the value the variable will have.
 
-```py
+```python
 my_variable = "A simple string."
 ```
 
@@ -30,7 +30,7 @@ Now, the variable, "my\_variable" may be called from the code.
 
 Changing a variable is a lot like defining it, in fact, it's no different from.
 
-```py
+```python
 my_variable = "A simple string."
 my_variable = "A different string."
 ```
@@ -41,7 +41,7 @@ The first line will create the variable and give it the value, and the second li
 
 To call a variable, you simply write the name of it where you would like it to be used.
 
-```py
+```python
 my_variable = "A simple string."
 print(my_variable)
 ```

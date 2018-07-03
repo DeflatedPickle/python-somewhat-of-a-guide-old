@@ -1,4 +1,4 @@
-# Chapter 2.1: Naming {#statements}
+# Naming
 
 ### Underscores
 
@@ -33,6 +33,4 @@ Functions and methods follow the naming scheme of variables, in fact, they're th
 ## Classes
 
 Classes follow upper Camel Case, meaning that each word starts with a capital letter, and there are no separations of words, not even underscores. An example of this is: `MyClass`.
-
-
 
