@@ -48,7 +48,15 @@ Stuff.
 
 ## Installing Packages {#installing-packages}
 
-Stuff.
+Many popular packages are available on pip, python's package manager. It is included with all python versions >= 2.7.9.
+
+It can be used by typing "python -m pip install \[modulename\]", where modulename is the name of the module you want to install, in the terminal or command prompt, depending on which system you're on.
+
+You can, of course, also uninstall packages you installed via pip. The command for that is "python -m pip uninstall \[modulename\]".
+
+
+
+There are of course packages that are not available on pip, those can be installed either by using a third-party package manager / installer if one is available or by just downloading the .py file and putting it in your scripts folder.
 
 ## Creating Packages {#creating-packages}
 
