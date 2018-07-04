@@ -1,12 +1,14 @@
 # Classes
 
-### What is a Class? {#what-is-a-class}
+## What is a Class?
 
 A class is an object that can contain variables and methods. Multiple instances of the class can be created and used independent of eachother.
 
-### Why Should I Use Classes? {#why-should-i-use-variables}
+### Why Should I Use Classes?
 
-### How to Create a Class {#how-to-create-a-class}
+## Using Classes
+
+### How to Create a Class
 
 The code below will create an empty class.
 

@@ -1,14 +1,14 @@
 # Functions
 
-### What is a Function?
+## What is a Function?
 
 A function is a command that can be used to perform an/or multiple actions. They can contain however many lines of code you would like, and can be used however many times by just calling it.
 
-### Why Should I Use Functions? {#why-should-i-use-variables}
+### Why Should I Use Functions?
 
 Using functions will decrease the the amount of coding needed.
 
-If you want to run multiple lines of code multiple times, then putting that code into a function will reduce the lines needed to 1. It also means that you can update the code run easily.
+If you want to run multiple lines of code multiple times, then putting that code into a function will reduce the lines needed to 1 - the function call. It also means that you can update the code you want to run, easily, rather than having to change a line in each duplicate section of code.
 
 ## Arguments {#arguments}
 
@@ -65,11 +65,37 @@ These aren't an either/or situation, though. Both can be used together.
 greet_long("Monty", second_name="Python")
 ```
 
+However, you can't pass a named argument and then an unnamed one, as the order of the arguments does matter.
+
+```python
+greet_long(second_name="Python", "Monty")
+```
+
 Using the name of the argument will improve readability of the code, and if you think someone else will need to understand what the arguments mean, it might be a good idea to use them.
 
 ### What are Args and Kwargs?
 
-## Returning Information {#returning-information}
+When making a function, you can specify that in the arguments, it can accept either only `*args` or a number of arguments and then `*args`. What `*args` means, is a limitless amount of arguments, so creating a function that accepts it, means that all arguments provided to the call after specific ones, will be placed in a list called: "`args`". You can then access the arguments as `args` in the function to use them.
+
+```python
+def function(*args):
+    for item in args:
+        print(item)
+
+function("Hello", "World!")
+```
+
+You can also, after `*args` \(if used\), ask for `**kwagrs`. What `**kwargs` means, is a limitless amount of keyword arguments. It's essentially the same as `*args`, though it only accepts named arguments, and the named arguments will be placed in a dictionary as key/value pairs, called: "`kwargs`".
+
+```python
+def function(**kwargs):
+	for k, v in kwargs.items():
+		print(v)
+
+function(first="Hello", second="World!")
+```
+
+##  Returning Information {#returning-information}
 
 Functions can return information to be used elsewhere.
 

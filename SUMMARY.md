@@ -5,67 +5,28 @@
 ## Getting Started
 
 * [Installation](getting-started/installation.md)
-
-## Good Practice
-
-* [Naming](good-practice/naming/README.md)
-  * [Variables](good-practice/naming/variables.md)
-  * [Functions](good-practice/naming/functions.md)
-  * [Classes](good-practice/naming/classes.md)
-* [Type Hinting](good-practice/type-hinting.md)
+* [Tools](getting-started/tools.md)
+* [Useful Links](getting-started/useful-links.md)
 
 ## Learning
 
-* [Basics](learning/basics.md)
-* [Data Types](learning/data-types/README.md)
-  * [Numeric](learning/data-types/numeric/README.md)
-    * [Boolean](learning/data-types/numeric/boolean.md)
-    * [Float](learning/data-types/numeric/float.md)
-    * [Complex](learning/data-types/numeric/complex.md)
-  * [Sequences](learning/data-types/sequences/README.md)
-    * [String](learning/data-types/sequences/string.md)
-    * [Bytes](learning/data-types/sequences/bytes.md)
-    * [Byte Array](learning/data-types/sequences/byte-array.md)
-    * [List](learning/data-types/sequences/list.md)
-    * [Array](learning/data-types/sequences/array.md)
-    * [Tuple](learning/data-types/sequences/tuple.md)
-  * [Sets](learning/data-types/sets/README.md)
-    * [Set](learning/data-types/sets/set.md)
-    * [Frozen Set](learning/data-types/sets/frozen-set.md)
-  * [Mappings](learning/data-types/mappings/README.md)
-    * [Dictionary](learning/data-types/mappings/dictionary.md)
-* [Variables](learning/variables/README.md)
-  * [What is a Variable?](learning/variables/what-is-a-variable.md)
-  * [Why Should I Use Variables?](learning/variables/why-should-i-use-variables.md)
-  * [Using Variables](learning/variables/using-variables/README.md)
-    * [Defining Variables](learning/variables/using-variables/defining-variables.md)
-    * [Changing Variables](learning/variables/using-variables/changing-variables.md)
-    * [Calling Variables](learning/variables/using-variables/calling-variables.md)
+* [Variables](learning/variables.md)
 * [Scopes](learning/scopes.md)
-* [Statements](learning/statements.md)
 * [Expressions](learning/expressions.md)
+* [Statements](learning/statements.md)
 * [Loops](learning/loops.md)
 * [Operators](learning/operators.md)
 * [Functions](learning/functions.md)
-* [Classes](learning/classes/README.md)
-  * [What is a Class?](learning/classes/what-is-a-class.md)
-  * [How to Create a Class](learning/classes/how-to-create-a-class.md)
-  * [Inheritance](learning/classes/inheritance/README.md)
-    * [What is Inheritance?](learning/classes/inheritance/what-is-inheritance.md)
-    * [How to Inherit From a Class](learning/classes/inheritance/how-to-inherit-from-a-class.md)
-  * [Class Constructor](learning/classes/class-constructor/README.md)
-    * [What is the Class Constructor?](learning/classes/class-constructor/what-is-the-class-constructor.md)
-    * [Constructor Arguments](learning/classes/class-constructor/constructor-arguments.md)
-    * [Running the Constructor of an Extended Class](learning/classes/class-constructor/running-the-constructor-of-an-extended-class.md)
-  * [Methods](learning/classes/methods/README.md)
-    * [What is a Method?](learning/classes/methods/what-is-a-method.md)
-    * [How to Create a Method](learning/classes/methods/how-to-create-a-method.md)
-  * [Class Variables](learning/classes/class-variables/README.md)
-    * [What is a Class Variable?](learning/classes/class-variables/what-is-a-class-variable.md)
-  * [Instance Variables](learning/classes/instance-variables/README.md)
-    * [What is an Instance Variable?](learning/classes/instance-variables/what-is-an-instance-variable.md)
-  * [Instances](learning/classes/instances/README.md)
-    * [What is an Instance?](learning/classes/instances/what-is-an-instance.md)
-    * [How to Create an Instance](learning/classes/instances/how-to-create-an-instance.md)
+* [Classes](learning/classes.md)
 * [Packages](learning/packages.md)
+* [Syntax Specifics](learning/basics.md)
+
+## Advanced
+
+* [Implementations](advanced/implementations.md)
+
+## Good Practice
+
+* [Naming](good-practice/naming.md)
+* [Type Hinting](good-practice/type-hinting.md)
 

@@ -1,10 +1,13 @@
-# Basics
-
-These sections are things which I didn't think to mention until the user `Spades#8051` \(on Discord\) struggled with them.
-
-## Brackets
+# Syntax Specifics
 
 ## Colons
+
+Colons are used to specify a new block. They're placed at the end of function declarations, class declarations, if statements, for loops, etc.
+
+```python
+if 0 == 0:  # I've started a new block, the colon shows this
+    pass
+```
 
 ## Indentation
 
@@ -18,5 +21,23 @@ When indentation is forced, like with Python, it makes code easier to read when 
 
 ### When Do I Indent?
 
-Whenever you start a code block, which are started with a colon \("\`:\`"\), the next line will always be indented by one more indentation level. The indentation level of this block must stay the same through out it, but not all blocks have to be indented to the same level, though, for the sake of readability, I recommend keeping your blocks indented to the same level.
+Whenever you start a code block, which are started with a colon \("\`:\`"\), the next line will always be indented by one more indentation level. 
+
+```python
+var = "Hello"
+
+if var == "Hello":
+    print("It is!") # Indented 
+```
+
+The indentation level of this block must stay the same through out it, but not all blocks have to be indented to the same level:
+
+```python
+def function():
+        pass  # Indented by 8 spaces - perfectly valid
+        
+def function():
+    print("Hello, World!")
+            pass  # Indented by 8 spaces - invalid, as the previous line is indented by 4
+```
 
