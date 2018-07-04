@@ -11,7 +11,6 @@
 ## Learning
 
 * [Variables](learning/variables.md)
-* [Scopes](learning/scopes.md)
 * [Expressions](learning/expressions.md)
 * [Statements](learning/statements.md)
 * [Loops](learning/loops.md)
@@ -20,9 +19,11 @@
 * [Classes](learning/classes.md)
 * [Packages](learning/packages.md)
 * [Syntax Specifics](learning/basics.md)
+* [Style Guide](learning/style-guide.md)
 
 ## Advanced
 
+* [Scopes](advanced/scopes.md)
 * [Implementations](advanced/implementations.md)
 
 ## Good Practice
