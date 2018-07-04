@@ -14,7 +14,7 @@ Say that you need to use a string again and again, you could just write the stri
 
 ## Using Variables {#using-variables}
 
-To use a variable, the variable must first be defined. After that, it may be called.
+To use a variable, the variable must first be defined. After that, it may be referenced or changed.
 
 ### Defining Variables {#defining-variables}
 
@@ -28,7 +28,7 @@ Now, the variable, "my\_variable" may be called from the code.
 
 ### Changing Variables {#changing-variables}
 
-Changing a variable is a lot like defining it, in fact, it's no different from.
+Changing a variable is a lot like defining it, in fact, it's no different.
 
 ```python
 my_variable = "A simple string"
@@ -37,9 +37,9 @@ my_variable = "A different string"
 
 The first line will create the variable and give it the value, and the second line will change the value of the variable.
 
-### Calling Variables
+### Referencing Variables
 
-To call a variable, you simply write the name of it where you would like it to be used.
+To reference a variable, you simply write the name of it where you would like it to be used.
 
 ```python
 my_variable = "A simple string"
