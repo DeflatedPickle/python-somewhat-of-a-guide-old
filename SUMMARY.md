@@ -10,6 +10,7 @@
 
 ## Learning
 
+* [Data Types](learning/data-types.md)
 * [Variables](learning/variables.md)
 * [Expressions](learning/expressions.md)
 * [Statements](learning/statements.md)

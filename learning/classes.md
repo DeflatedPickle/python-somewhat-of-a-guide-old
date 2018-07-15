@@ -6,6 +6,8 @@ A class is an object that can contain variables and methods. Multiple instances 
 
 ### Why Should I Use Classes?
 
+Classes are a core principle of object-oriented languages, and play a key role in reducing the amount of reused code. Often, you'll find that you need to think of a piece of code like an object, and when coming across a problem like this, you'll most likely want to use an object. For instance, say you're writing a game with a quest system, you'll probably want to make a quest manager object, with methods to add, create and remove quests, and then have a quest class, with methods to update, find info about, and complete the quest, which each quest will subclass.
+
 ## Using Classes
 
 ### How to Create a Class
@@ -133,5 +135,58 @@ If the class takes arguments in the constructor, they will need to be given in t
 
 ```python
 MyClass("Monty")
+```
+
+## Example
+
+```python
+class QuestManager(object):
+    def __init__(self):
+        self.quests = []
+        self.active = 0
+        
+    def start(self, quest):
+        print(f"Started: {quest.name}")
+        
+        quest.start()
+        self.quests.append(quest)
+        
+    def ditch(self, quest):
+        "Ditches the given quest"
+        print(f"Ditched: {quest.name}")
+        
+        quest.ditch()
+        self.quests.remove(quest)
+        
+    def ditch_current():
+        "Ditches the current quest"
+        self.ditch(self.get_active())
+        
+    def complete_current():
+        self.complete(self.get_active())
+        
+    def get_active():
+        return self.quests[self.active]
+```
+
+```python
+class Quest(object):
+    def __init__(self, name, description):
+        self.name = name
+        self.description = description
+        
+    def start(self):
+        pass
+        
+    def complete(self):
+        pass
+        
+    def ditch(self):
+        pass
+```
+
+```python
+manager = QuestManager()
+fetch_sword = Quest("Fetch Sword", "Delve into a dungeon and retrieve a sword.")
 ```
 

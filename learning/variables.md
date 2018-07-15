@@ -2,9 +2,7 @@
 
 ## What is a Variable?
 
-A variable is essentially a label for a value. They contain a piece of data.
-
-A variable can contain any data type. For instance, a variable can contain a list.
+A variable is essentially a label for a value. They contain a piece of data. A variable can contain any data type. For instance, a variable can contain a list.
 
 ## Why Should I Use Variables?
 

@@ -116,3 +116,20 @@ This function will add the 2 arguments together.
 
 ### What is a Decorator?
 
+## Example
+
+```python
+def add(a: int, b: int):
+    return a + b
+```
+
+```python
+def add_all(args*):
+    num = 0
+    
+    for n in args:
+        num += n
+        
+    return num
+```
+
