@@ -2,6 +2,10 @@
 
 As well as this book or even instead of, it's a good idea to use information and resources from many places, so I'd like to link here and explain, a few places I've found useful.
 
+## Google Search
+
+If you're gonna be a programmer, you need to learn how to use Google search correctly, to find the information you need. If you have an error, Google it. If you need to know how to do something, Google it.
+
 ## [Python Docs](https://docs.python.org/3/index.html)
 
 The official Python docs are the main place to go if you need to find something Python related, they have a page for just about everything and update the docs with new Python releases. Though their pages tend to go on quite a bit, and they'll usually provide information that might confuse a newcomer, like the grammar syntax for different statements.
