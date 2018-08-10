@@ -42,6 +42,22 @@ print(floor(5.5))
 
 For a full list of packages included with Python, and the variables, functions and classes in them, visit the [Python library reference](https://docs.python.org/3/library/).
 
+### Local Imports
+
+If you want to import a package from the same directory level \(in the same folder\) as your script, you need to use a local import, like so:
+
+```python
+from .pack import *  # Where "pack" is the file name of the package you want to import
+```
+
+Note, that you can't simply "import" the package as a namespace, you must use a wildcard to import everything from it, or target the specific objects you want from it \(variables, classes and functions\).
+
+If you want to import a package from a directory level above your script, simply add a second full-stop:
+
+```python
+from ..other_pack import *  # Where "other_pack" is the file name of the package you want to import
+```
+
 ## Installing Packages {#installing-packages}
 
 Python has a specific site for packages to be hosted on and downloaded from, called [PyPI](https://pypi.org/) \(the Python Package Index\). This site can be used to find new packages, locate packages you know of, and read and find links on each package.
