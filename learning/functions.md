@@ -19,17 +19,12 @@ An argument is something that can be passed into a function to then be used insi
 ```python
 def greet(name):
     print("Hello, " + name + "!")
-greet("Monty Python")
 ```
 
 ```python
 def greet_long(first_name, second_name):
     print("Hello, " + first_name + " " + second_name + "!")
-    
-greet_long("Monty", "Python")
 ```
-
-This will print, "Hello, Monty Python!".
 
 ### Default Value
 
